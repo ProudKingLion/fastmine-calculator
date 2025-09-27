@@ -1,0 +1,474 @@
+[
+  {
+    "title": "Bitmain Antminer T21 190 Th/s",
+    "price": 273927.47,
+    "hashRateString": "190 TH/s",
+    "hashRate": 190,
+    "power": 3610,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer T21 186 Th/s",
+    "price": 240132,
+    "hashRateString": "186 Th/s",
+    "hashRate": 186,
+    "power": 3610,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer T21 180 Th/s",
+    "price": 286000,
+    "hashRateString": "180 Th/s",
+    "hashRate": 180,
+    "power": 3650,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21 188 Th/s",
+    "price": 263730,
+    "hashRateString": "188 Th/s",
+    "hashRate": 188,
+    "power": 3500,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21 195 Th/s",
+    "price": 291560,
+    "hashRateString": "195 Th/s",
+    "hashRate": 195,
+    "power": 3500,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21 200 Th/s",
+    "price": 344400,
+    "hashRateString": "200 TH/s",
+    "hashRate": 200,
+    "power": 3500,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21 PRO 234 Th/s",
+    "price": 462297.37,
+    "hashRateString": "234 TH/s",
+    "hashRate": 234,
+    "power": 3510,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19K PRO 120 Th/s",
+    "price": 111227.09,
+    "hashRateString": "120 Th/s",
+    "hashRate": 120,
+    "power": 3200,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19K PRO 115 Th/s",
+    "price": 98190.91,
+    "hashRateString": "115 TH/s",
+    "hashRate": 115,
+    "power": 2645,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer М60 170 Th/s",
+    "price": 201545,
+    "hashRateString": "170 TH/s",
+    "hashRate": 170,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M30s++ 106 Th/s",
+    "price": 50100,
+    "hashRateString": "106 TH/s",
+    "hashRate": 106,
+    "power": 3350,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M30s++ 108 Th/s",
+    "price": 54280,
+    "hashRateString": "108 TH/s",
+    "hashRate": 108,
+    "power": 3472,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M30s++ 110 Th/s",
+    "price": 95000,
+    "hashRateString": "110 TH/s",
+    "hashRate": 110,
+    "power": 3472,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50 112 Th/s",
+    "price": 164000,
+    "hashRateString": "112 TH/s",
+    "hashRate": 112,
+    "power": 3480,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50 114 Th/s",
+    "price": 41750,
+    "hashRateString": "114 TH/s",
+    "hashRate": 114,
+    "power": 3480,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50 118 Th/s",
+    "price": 78820,
+    "hashRateString": "118 TH/s",
+    "hashRate": 118,
+    "power": 3480,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50 120 Th/s",
+    "price": 80160,
+    "hashRateString": "120 TH/s",
+    "hashRate": 120,
+    "power": 3480,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50 122 Th/s",
+    "price": 83500,
+    "hashRateString": "122 TH/s",
+    "hashRate": 122,
+    "power": 3480,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50 124 Th/s",
+    "price": 87680,
+    "hashRateString": "124 TH/s",
+    "hashRate": 124,
+    "power": 3480,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 124 Th/s",
+    "price": 107512.06,
+    "hashRateString": "124 TH/s",
+    "hashRate": 124,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 126 Th/s",
+    "price": 109011.5,
+    "hashRateString": "126 TH/s",
+    "hashRate": 126,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 128 Th/s",
+    "price": 110510.94,
+    "hashRateString": "128 TH/s",
+    "hashRate": 128,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 130 Th/s",
+    "price": 117570,
+    "hashRateString": "130 TH/s",
+    "hashRate": 130,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 132 Th/s",
+    "price": 119320,
+    "hashRateString": "132 TH/s",
+    "hashRate": 132,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 134 Th/s",
+    "price": 120990,
+    "hashRateString": "134 TH/s",
+    "hashRate": 134,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 136 Th/s",
+    "price": 125670,
+    "hashRateString": "136 TH/s",
+    "hashRate": 136,
+    "power": 3264,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M60 166 Th/s",
+    "price": 248400,
+    "hashRateString": "166 TH/s",
+    "hashRate": 166,
+    "power": 3650,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M60 172TH/s",
+    "price": 157000,
+    "hashRateString": "172 TH/s",
+    "hashRate": 172,
+    "power": 3650,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M60 174 Th/s",
+    "price": 201500,
+    "hashRateString": "174 TH/s",
+    "hashRate": 174,
+    "power": 3650,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M60 176 Th/s",
+    "price": 226320,
+    "hashRateString": "176 TH/s",
+    "hashRate": 176,
+    "power": 3600,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M60S 188 Th/s",
+    "price": 250900,
+    "hashRateString": "188 TH/s",
+    "hashRate": 188,
+    "power": 3600,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M60S 190 Th/s",
+    "price": 287493,
+    "hashRateString": "190 TH/s",
+    "hashRate": 190,
+    "power": 3600,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer L7 8300 Mh/s",
+    "price": 317300,
+    "hashRateString": "8 300 MH/s",
+    "hashRate": 8300,
+    "power": 3500,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer L7 8550 Mh/s",
+    "price": 325650,
+    "hashRateString": "8 500 MH/s",
+    "hashRate": 8500,
+    "power": 3500,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19 XP 141 TH/s",
+    "price": 98000,
+    "hashRateString": "141 TH/s",
+    "hashRate": 141,
+    "power": 3032,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19K PRO 110 Th/s",
+    "price": 94554.21,
+    "hashRateString": "120 Th/s",
+    "hashRate": 120,
+    "power": 2760,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19j Pro 104 TH/s",
+    "price": 118000,
+    "hashRateString": "104 TH/s",
+    "hashRate": 104,
+    "power": 3300,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19j Pro 100 TH/s",
+    "price": 106000,
+    "hashRateString": "100 TH/s",
+    "hashRate": 100,
+    "power": 3100,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19j Pro 96 TH/s",
+    "price": 115000,
+    "hashRateString": "96 TH/s",
+    "hashRate": 96,
+    "power": 3250,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19j Pro 95 TH/s",
+    "price": 120000,
+    "hashRateString": "95 TH/s",
+    "hashRate": 95,
+    "power": 3250,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21 Hydro 319 TH/s",
+    "price": 472610,
+    "hashRateString": "335 TH/s",
+    "hashRate": 335,
+    "power": 5360,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21 Hydro 335 TH/s",
+    "price": 497660,
+    "hashRateString": "335 TH/s",
+    "hashRate": 335,
+    "power": 5360,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19 Pro Hydro 184 TH/s",
+    "price": 140141.65,
+    "hashRateString": "335 TH/s",
+    "hashRate": 335,
+    "power": 5428,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S19 XP Hydro 257 TH/s",
+    "price": 253237.44,
+    "hashRateString": "335 TH/s",
+    "hashRate": 335,
+    "power": 5345,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21 PRO 245TH/s",
+    "price": 510760.6,
+    "hashRateString": "245 TH/s",
+    "hashRate": 245,
+    "power": 3675,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Antminer S21 XP 270 Th/s",
+    "price": 667138.72,
+    "hashRateString": "270 TH/s",
+    "hashRate": 270,
+    "power": 3645,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Antminer S21+ Hydro 395 Th/s",
+    "price": 628925.39,
+    "hashRateString": "395 TH/s",
+    "hashRate": 395,
+    "power": 5500,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Antminer S21+ Hydro 358 Th/s",
+    "price": 571376,
+    "hashRateString": "358TH/s",
+    "hashRate": 358,
+    "power": 5370,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Antminer S19e XP Hydro 251 TH/s",
+    "price": 247485.86,
+    "hashRateString": "251TH/s",
+    "hashRate": 251,
+    "power": 5522,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21+ 216 TH/s",
+    "price": 348093.78,
+    "hashRateString": "216 TH/s",
+    "hashRate": 216,
+    "power": 3564,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21+ 225 TH/s",
+    "price": 356956.14,
+    "hashRateString": "225 TH/s",
+    "hashRate": 225,
+    "power": 3564,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Bitmain Antminer S21+ 235 TH/s",
+    "price": 372174.34,
+    "hashRateString": "235 TH/s",
+    "hashRate": 235,
+    "power": 3564,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 120 Th/s",
+    "price": 104513.18,
+    "hashRateString": "120 TH/s",
+    "hashRate": 120,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S 122 Th/s",
+    "price": 106012.62,
+    "hashRateString": "122 TH/s",
+    "hashRate": 122,
+    "power": 3380,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S++ 158 Th/s",
+    "price": 177202.43,
+    "hashRateString": "158 TH/s",
+    "hashRate": 158,
+    "power": 3476,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M50S+ 140 Th/s",
+    "price": 143006.25,
+    "hashRateString": "140 TH/s",
+    "hashRate": 140,
+    "power": 3360,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M60S 176 Th/s",
+    "price": 270570.52,
+    "hashRateString": "176 TH/s",
+    "hashRate": 176,
+    "power": 3600,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M61 198 Th/s",
+    "price": 275986.4,
+    "hashRateString": "198 TH/s",
+    "hashRate": 198,
+    "power": 4100,
+    "algorithm": "SHA-256"
+  },
+  {
+    "title": "Whatsminer M61 204 Th/s",
+    "price": 283908.82,
+    "hashRateString": "204 TH/s",
+    "hashRate": 204,
+    "power": 4060,
+    "algorithm": "SHA-256"
+  }
+]

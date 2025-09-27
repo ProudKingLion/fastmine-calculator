@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Bitmain Antminer E9 PRO 3680 Mh/s",
+    "price": 218770,
+    "hashRateString": "3680 MH/s",
+    "hashRate": 3680,
+    "power": 2200,
+    "algorithm": "Etchash/Ethash"
+  },
+  {
+    "title": "Bitmain Antminer E9 PRO 3780 Mh/s",
+    "price": 160014.82,
+    "hashRateString": "3780 MH/s",
+    "hashRate": 3780,
+    "power": 2300,
+    "algorithm": "Etchash/Ethash"
+  },
+  {
+    "title": "Bombax EZ-100C 3800 Mh/s",
+    "price": 384399,
+    "hashRateString": "12500 MH/s",
+    "hashRate": 12500,
+    "power": 570,
+    "algorithm": "Ethash"
+  },
+  {
+    "title": "Jasminer X16-Q 1750 Mh/s",
+    "price": 116820,
+    "hashRateString": "1750 MH/s",
+    "hashRate": 1750,
+    "power": 620,
+    "algorithm": "Ethash"
+  },
+  {
+    "title": "Jasminer X16-Q 1950 Mh/s",
+    "price": 129430,
+    "hashRateString": "1950 MH/s",
+    "hashRate": 1950,
+    "power": 620,
+    "algorithm": "Etchash/Ethash"
+  },
+  {
+    "title": "Jasminer X16-Q PRO 2050 Mh/s 8G",
+    "price": 135800,
+    "hashRateString": "2050 MH/s",
+    "hashRate": 2050,
+    "power": 520,
+    "algorithm": "Etchash/Ethash"
+  }
+]

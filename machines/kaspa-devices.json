@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Bitmain Antminer KS5 PRO 21 Th/s",
+    "price": 126333.38,
+    "hashRateString": "21 TH/s",
+    "hashRate": 21,
+    "power": 3300,
+    "algorithm": "kHeavyHash"
+  },
+  {
+    "title": "IceRiver KS5M 15 Th/s",
+    "price": 167000,
+    "hashRateString": "15 TH/s",
+    "hashRate": 15,
+    "power": 3400,
+    "algorithm": "kHeavyHash"
+  },
+  {
+    "title": "IceRiver KS3M 6T",
+    "price": 520313,
+    "hashRateString": "6 TH/s",
+    "hashRate": 6,
+    "power": 3200,
+    "algorithm": "kHeavyHash"
+  },
+  {
+    "title": "Bitmain Antminer KS5 20 Th/s",
+    "price": 112905.56,
+    "hashRateString": "20 TH/s",
+    "hashRate": 20,
+    "power": 3300,
+    "algorithm": "kHeavyHash"
+  }
+]

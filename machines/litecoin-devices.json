@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Bitmain Antminer L9 15000 Mh/s",
+    "price": 786646.29,
+    "hashRateString": "15 000 MH/s",
+    "hashRate": 15000,
+    "power": 3360,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "Bitmain Antminer L9 16000 Mh/s",
+    "price": 820215.84,
+    "hashRateString": "16 000 MH/s",
+    "hashRate": 16000,
+    "power": 3500,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "Bitmain Antminer L9 17000 Mh/s",
+    "price": 870570.15,
+    "hashRateString": "17 000 MH/s",
+    "hashRate": 17000,
+    "power": 3360,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "Bitmain Antminer L7 8800 Mh/s",
+    "price": 510000,
+    "hashRateString": "8800 MH/s",
+    "hashRate": 8800,
+    "power": 3500,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "Bitmain Antminer L7 9050 Mh/s",
+    "price": 576000,
+    "hashRateString": "9050 Mh/s",
+    "hashRate": 9050,
+    "power": 3150,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "Bitmain Antminer L7 9300 Mh/s",
+    "price": 350700,
+    "hashRateString": "9300 Mh/s",
+    "hashRate": 9300,
+    "power": 3500,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "Bitmain Antminer L7 9500 Mh/s",
+    "price": 398000,
+    "hashRateString": "9500 MH/s",
+    "hashRate": 9500,
+    "power": 3420,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1 9500 Mh/s",
+    "price": 993403,
+    "hashRateString": "9500 МH/s",
+    "hashRate": 9500,
+    "power": 3420,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1 10000 Mh/s",
+    "price": 1034496,
+    "hashRateString": "10000 МH/s",
+    "hashRate": 10000,
+    "power": 3109,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1 11000 Mh/s",
+    "price": 334000,
+    "hashRateString": "11000 МH/s",
+    "hashRate": 11000,
+    "power": 3420,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1 11800 Mh/s",
+    "price": 1286000,
+    "hashRateString": "11800 МH/s",
+    "hashRate": 11800,
+    "power": 3420,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1+ 14000 Mh/s",
+    "price": 467600,
+    "hashRateString": "14000 TH/s",
+    "hashRate": 14000,
+    "power": 4,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1+ 14400 Mh/s",
+    "price": 492650,
+    "hashRateString": "14400 MH/s",
+    "hashRate": 14400,
+    "power": 3950,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1+ 13600 Mh/s",
+    "price": 442550,
+    "hashRateString": "13600 MH/s",
+    "hashRate": 13600,
+    "power": 3420,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "ELPHAPEX DG1+ 13800 Mh/s",
+    "price": 925900,
+    "hashRateString": "13800 MH/s",
+    "hashRate": 13800,
+    "power": 4,
+    "algorithm": "Scrypt"
+  },
+  {
+    "title": "Bitmain Antminer L9 16.5G",
+    "price": 825810.76,
+    "hashRateString": "16 GH/s",
+    "hashRate": 16,
+    "power": 3360,
+    "algorithm": "Scrypt"
+  }
+]
